@@ -41,8 +41,6 @@ pip install mysql-connector-python
 2. Import Database
 Run this SQL script in MySQL:
 
-sql
-Copy code
 CREATE DATABASE airline_reservation;
 USE airline_reservation;
 
@@ -69,13 +67,9 @@ CREATE TABLE bookings (
     FOREIGN KEY (flight_id) REFERENCES flights(flight_id)
 );
 3. Run the Python File
-bash
-Copy code
 python airline_reservation.py
-👤 Author
-Harsh Gaddhyan
+👤 Author : Harsh Gaddhyan
 Class 12 CBSE — Computer Science Project
-
 📜 License
 This project is free to use for educational purposes.
 
@@ -88,3 +82,4 @@ This project is free to use for educational purposes.
 
 
 Paste this into your `README.md`. If you want, I can also write your **Devfolio About Me**.
+
