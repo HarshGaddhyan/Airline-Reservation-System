@@ -74,13 +74,3 @@ Class 12 CBSE — Computer Science Project
 This project is free to use for educational purposes.
 
 ---
-
-✔ This version will look **professional**  
-✔ Correct formatting  
-✔ Code blocks will render properly  
-✔ Headings and emojis will appear cleanly  
-
-
-Paste this into your `README.md`. If you want, I can also write your **Devfolio About Me**.
-
-
