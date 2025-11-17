@@ -31,9 +31,6 @@ airline-reservation-system/
 ├── .gitignore # Ignored files
 └── README.md # Project documentation
 
-yaml
-Copy code
-
 ---
 
 ## 🚀 How to Run the Project
@@ -82,14 +79,12 @@ Class 12 CBSE — Computer Science Project
 📜 License
 This project is free to use for educational purposes.
 
-yaml
-Copy code
-
 ---
 
 ✔ This version will look **professional**  
 ✔ Correct formatting  
 ✔ Code blocks will render properly  
 ✔ Headings and emojis will appear cleanly  
+
 
 Paste this into your `README.md`. If you want, I can also write your **Devfolio About Me**.
